@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "923769036599",
+    "firebase_url": "https://gameroom-ac120.firebaseio.com",
+    "project_id": "gameroom-ac120",
+    "storage_bucket": "gameroom-ac120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923769036599:android:182d7def4325493f",
+        "android_client_info": {
+          "package_name": "com.termux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923769036599-0a75hr6negicrlldn8d0vsb0moeh0oi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.termux",
+            "certificate_hash": "b0707021953f1f312dccf182b83edb84cc86104e"
+          }
+        },
+        {
+          "client_id": "923769036599-h5atuh4tvhjoh4e4marvc4e1pf2uach4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU65yDcyoLvqegxX9yEUrBElAVDoJSWY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923769036599-h5atuh4tvhjoh4e4marvc4e1pf2uach4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

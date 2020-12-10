@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="filehint1">Useful commands cat, awk, etc.</string>
+    <string name="filehint2">Useful commands cat, awk, etc.</string>
+    <string name="filehint3">Useful commands cat, awk, etc.</string>
+    <string name="filehint4">Useful commands cat, awk, etc.</string>
+    <string name="filehint5">
+        John the Ripper is a hash cracker.
+        Dive into it to find the password</string>
+    <string name="filehint6">/</string>
+    <string name="filehint7">Useful commands are cat, sort, uniq, awk, etc.</string>
+    <string name="filehint8">Useful commands are cat, strings, grep, awk, tac, etc.</string>
+    <string name="filehint9">There are many zip cracker tools like fcrackzip, zip2john, etc.
+
+    Learn about them to crack the Zip file.</string>
+    <string name="filehint10">/</string>
+
+    <string name="uehint1">
+        useful commands getent, grep, wc
+        also min and  max uid for normal users</string>
+    <string name="uehint2">
+        find is a command for recursively filtering objects in the file system based on a simple conditional mechanism.
+    </string>
+
+    <string name="cryptohint1">ROT13 (&quot;rotate by 13 places&quot;, sometimes hyphenated ROT-13) is a simple
+letter substitution cipher that replaces a letter with the 13th letter after it, in the alphabet.
+ROT13 is a special case of the Caesar cipher which was developed in ancient Rome.
+URL: www.rot13.com</string>
+    <string name="cryptohint2">Atbash cipher- Atbash is a monoalphabetic substitution cipher originally used to
+encrypt the Hebrew alphabet. It can be modified for use with any known writing system
+with a standard collating order.</string>
+    <string name="cryptohint3">Md5 (Message Digest 5) is a cryptographic function that allows you
+to make a 128-bits (32 caracters) hash from any string taken as input, no matter the
+length (up to 2raise64 bits). This function is irreversible, you cannot obtain the plaintext only
+from the hash.</string>
+
+
+    <string name="application_name">H@ckedemist</string>
+    <string name="shared_user_label">Termux user</string>
+    <string name="new_session">New session</string>
+
+    <string name="new_session_failsafe">Failsafe</string>
+    <string name="toggle_soft_keyboard">Keyboard</string>
+    <string name="reset_terminal">Reset</string>
+    <string name="style_terminal">Style</string>
+    <string name="share_transcript_title">Terminal transcript</string>
+    <string name="help">Help</string>
+    <string name="toggle_keep_screen_on">Keep screen on</string>
+    <string name="hintbutton">3520-light-bulb.json</string>
+    <string name="submitbutton">animation-w160-h60 (1).json</string>
+    <string name="homebutton">homeBtn2.json</string>
+    <string name="register">2885-avatar-animations.json</string>
+    <string name="loginscreen">usericon-red.json</string>
+
+
+    <string name="bootstrap_installer_body">Installing…</string>
+    <string name="bootstrap_error_title">Unable to install</string>
+    <string name="bootstrap_error_body">Termux was unable to install the bootstrap packages.\n\nCheck your network connection and try again.</string>
+    <string name="bootstrap_error_abort">Abort</string>
+    <string name="bootstrap_error_try_again">Try again</string>
+    <string name="bootstrap_error_not_primary_user_message">Termux can only be installed on the primary user account.</string>
+
+    <string name="max_terminals_reached_title">Max terminals reached</string>
+    <string name="max_terminals_reached_message">Close down existing ones before creating new.</string>
+
+    <string name="reset_toast_notification">Terminal reset.</string>
+
+    <string name="select_url">Select URL</string>
+    <string name="select_url_dialog_title">Click URL to copy or long press to open</string>
+    <string name="select_all_and_share">Share transcript</string>
+    <string name="select_url_no_found">No URL found in the terminal.</string>
+    <string name="select_url_copied_to_clipboard">URL copied to clipboard</string>
+    <string name="share_transcript_chooser_title">Send text to:</string>
+
+    <string name="kill_process">Kill process (%d)</string>
+    <string name="confirm_kill_process">Really kill this session?</string>
+
+    <string name="session_rename_title">Set session name</string>
+    <string name="session_rename_positive_button">Set</string>
+    <string name="session_new_named_title">New named session</string>
+    <string name="session_new_named_positive_button">Create</string>
+
+    <string name="styling_not_installed">The Termux:Style add-on is not installed.</string>
+    <string name="styling_install">Install</string>
+
+    <string name="notification_action_exit">Exit</string>
+    <string name="notification_action_wake_lock">Acquire wakelock</string>
+    <string name="notification_action_wake_unlock">Release wakelock</string>
+
+    <string name="file_received_title">Save file in ~/downloads/</string>
+    <string name="file_received_edit_button">Edit</string>
+    <string name="file_received_open_folder_button">Open folder</string>
+    <string name="title_activity_first">H@CKEDEMIST</string>
+    <string name="title_activity_data_fetch">DataFetch</string>
+
+</resources>
